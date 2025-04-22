@@ -5,7 +5,7 @@ public class OperationsOnTypes {
         int firstVariable = 10;
         int secondVariable = 1;
         int thirdVariable = -2;
-        double ADouble = 3.1;
+        double ADouble = 3.2;
         double BDouble = 1.1;
         float oneF = Float.MAX_VALUE;
         double oneD = Double.MIN_VALUE;
